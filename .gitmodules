@@ -1,0 +1,9 @@
+[submodule "ML"]
+	path = ML
+	url = https://github.com/yahya94812/ML.git
+[submodule "Deep-Learning"]
+	path = Deep-Learning
+	url = https://github.com/yahya94812/Deep-Learning.git
+[submodule "Data-Science"]
+	path = Data-Science
+	url = https://github.com/yahya94812/Data-Science.git
