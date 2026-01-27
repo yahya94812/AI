@@ -7,3 +7,12 @@
 [submodule "Data-Science"]
 	path = Data-Science
 	url = https://github.com/yahya94812/Data-Science.git
+[submodule "Short-AI-Projects"]
+	path = Short-AI-Projects
+	url = https://github.com/yahya94812/Short-AI-Projects.git
+[submodule "Colab-Notebooks"]
+	path = Colab-Notebooks
+	url = https://github.com/yahya94812/Colab-Notebooks.git
+[submodule "Neural-Networks"]
+	path = Neural-Networks
+	url = https://github.com/yahya94812/Neural-Networks.git
